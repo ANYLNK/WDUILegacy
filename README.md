@@ -1,2 +1,2 @@
 # WDUILegacy
-This project stored the legacy User Interface of Windows Defender
+This project stored legacy User Interfaces of Windows Defender
